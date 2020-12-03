@@ -1,5 +1,4 @@
-# wen_zidi
+# Quantitative Finance
 
-### This repository will store all the coding work from both Sam and Wen.
+### This repository stores all the teaching material for quantitative finance, from coding to real-application
 
-The objective is to record all the changes and work that are both done by us. Easy to track records. 
